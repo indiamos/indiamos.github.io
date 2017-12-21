@@ -1,0 +1,21 @@
+body {
+  background-color: #000;
+  color: #ffbf00;
+}
+
+pre {
+  width: 72em;
+  margin: 0 auto;
+}
+
+@media (min-width: 60.5em)  {
+  .ascii-script {
+    display: block;
+  }
+}
+
+@media (max-width: 60.5em)  {
+  .ascii-script {
+    display: none;
+  }
+}
