@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  {% include head.html %}
+  <body>
+    <div class="nameplate-small">
+      <a href="{{ "/" | prepend: site.baseurl }}"><img class="nameplate" alt="India Amos" src="/assets/nameplate2.png" /></a>
+    </div>
+
+    {% include header.html %}
+
+    <hr />
+
+    <main>
+      <div class="project">
+        <header class="project-header">
+          <h1 class="project-title">{{ page.title }}{% if page.subtitle %}<br />
+            <span class="subtitle">{{ page.subtitle }}</span>{% endif %}
+          </h1>
+          {% if page.tags %}<p class="tags">{{ page.tags }}</p>{% endif %}
+        </header>
+
+        <article class="project-content">
+          {{ content }}
+        </article>
+      </div>
+    </main>
+
+    {% include footer.html %}
+  </body>
+</html>
