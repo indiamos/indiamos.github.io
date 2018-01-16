@@ -1,11 +1,11 @@
 # INDIA AMOS
 
-Full-Stack JavaScript Developer
+Software Engineer
 
-[india.amos@gmail.com](mailto:india.amos@gmail.com)  
-646.961.4991  
+[india.amos@gmail.com](mailto:india.amos@gmail.com) 
 [linkedin.com/in/indiamos](https://www.linkedin.com/in/indiamos/)  
 [github.com/indiamos](https://github.com/indiamos)
+[stackoverflow.com/story/indiamos](https://stackoverflow.com/story/indiamos)
 
 ## PROJECTS
 
@@ -16,53 +16,57 @@ Full-Stack JavaScript Developer
   [youtu.be/x-x5PiVkCNU](https://youtu.be/x-x5PiVkCNU)  
   [github.com/indiamos/bookalatorJS](https://github.com/indiamos/bookalatorJS)
 
-### DEVELOPMENT SKILLS
+### SKILLS & TOOLS USED
 
-#### Proficient
+#### Most often
 
 - CSS3
-- Documentation
+- EPUB
+- Eslint
 - Express
 - Git
 - GitHub
 - HTML5
 - JavaScript
+- Node
 - PostgreSQL
 - React
+- Sass
 - Sequelize
 - Technical Support
+- Technical Writing
 - Training & Mentoring
 - Troubleshooting
 
-#### Knowledgeable
-- Agile workflow
-- Bootstrap
-- Jira
-- jQuery
-- Node
-- Pivotal Tracker
-- Redux
-- Sass
-- SQL
-- User Experience Design
-- WCAG
+#### Frequently
 
-#### Some Experience
-- Chai
+- Agile workflow
+- Jira
+- jsx-a11y
+- Mocha
+- Pivotal Tracker
+- QA
+- Redux
+- SQL
+- UX
+- WAI-ARIA
+- WCAG
+- Webpack
+
+#### Occasionally
+- Bootstrap
 - Heroku
 - Jasmine
 - Java
 - Jekyll
-- Mocha
+- jQuery
 - OAuth
 - PHP
+- Processing
 - Python
-- QA
 - Rails
 - Ruby
 - Socket.io
-- Test-Driven Development
-- Webpack
 - Wordpress
 
 ## SELECTED EXPERIENCE

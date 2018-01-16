@@ -9,7 +9,7 @@ An assignment for Rob Faludi's class [Crafting with Data](https://www.faludi.com
 
 > Get to know the normal distribution intimately by building your own quincunx or Galton box. You may use either physical materials or create an imaginative software simulation.
 
-I opted to make a software simulation. It distributes 3,000 beans and both counts the results and draws them as an upside-down bar chart:
+I opted to make a software simulation. It distributes 3,000 beans and both tallies the results and draws them as an upside-down bar chart:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1umw1EtmvjU?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 

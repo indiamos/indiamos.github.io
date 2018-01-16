@@ -5,37 +5,45 @@
 @charset "utf-8";
 @import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
 
+$primary-text: #ffbf00;
+$secondary-text: #aa8c00;
+$not-black: #191919;
+
 body {
   -moz-font-feature-settings: "kern" 1;
   -o-font-feature-settings: "kern" 1;
   -webkit-font-feature-settings: "kern" 1;
   -webkit-text-size-adjust: 100%;
-  background-color: #000;
-  color: #ffbf00;
+  background-color: $not-black;
+  color: $primary-text;
   font-family: 'Ubuntu Mono', monospace;
   font-feature-settings: "kern" 1;
   font-kerning: normal;
   line-height: 1.5;
   margin: 0;
-  padding: 0;
+  padding: 10px 0 0 0;
 }
 
 a {
-  display: inline-block;
-  color: #ffbf00;
+  color: $primary-text;
   text-decoration: none;
-  border-bottom: 1px dotted #ffbf00;
+  border-bottom: 1px dotted $primary-text;
 }
 
 a:focus,
 a:hover {
-  display: inline-block;
-  background-color: #ffbf00;
-  color: #000;
+  background-color: $primary-text;
+  color: $not-black;
+}
+
+abbr {
+  color: $primary-text;
+  text-decoration: none;
+  border-bottom: 1px dotted $primary-text;
 }
 
 blockquote {
-  border-left: 1px solid #aa8c00;
+  border-left: 1px solid $secondary-text;
   font-size: 0.9em;
   margin: 1em 0 1em 1.3em;
   padding: 0 0 0 1em;
@@ -69,16 +77,16 @@ hr {
 }
 
 hr::after {
-  color: #aa8c00;
+  color: $secondary-text;
   content: "·····························";
   font-size: 20px;
   letter-spacing: 1px;
 }
 
 iframe {
-  border: 1px dotted #ffbf00;
+  border: 1px dotted $primary-text;
   margin: 1em 0;
-  max-width: 100%;
+  max-width: 99%;
 }
 
 img {
@@ -94,15 +102,8 @@ p {
   }
 }
 
-pre {
-  font-family: 'Ubuntu Mono', monospace;
-  line-height: 1;
-  margin: 0 auto;
-  width: 60em;
-}
-
 .home-bio {
-  margin: 4em 0 0 0;
+  margin: 3em 0 0 0;
 }
 
 .nameplate-home,
@@ -112,13 +113,13 @@ pre {
 
 .nameplate-small {
   a {
-    border-bottom: 1px dotted #000;
+    border-bottom: 1px dotted $not-black;
   }
 
   a:focus,
   a:hover {
-    border-bottom: 1px dotted #ffbf00;
-    background-color: #000;
+    border-bottom: 1px dotted $primary-text;
+    background-color: $not-black;
   }
 
   img {
@@ -126,8 +127,14 @@ pre {
   }
 }
 
-.nameplate-home img {
-  max-width: 50em;
+.nameplate {
+  max-width: 100%;
+  width: 50em;
+}
+
+.nameplate-sm-img {
+  width: 50em;
+  max-width: 100%;
 }
 
 .page-header,
@@ -198,7 +205,7 @@ pre {
 
 .social-media {
   margin: 1em auto;
-  width: 12.5em;
+  width: 14.5em;
 
   li ~ li {
     margin-top: 0.5em;
@@ -215,6 +222,11 @@ pre {
   font-weight: normal;
 }
 
+.swe {
+  max-width: 70%;
+  width: 17em;
+}
+
 .tags {
   font-size: 75%;
   letter-spacing: 0.15em;
@@ -223,22 +235,10 @@ pre {
 }
 
 .wuform {
-  background-color: #ffbf00;
+  background-color: $primary-text;
   margin-bottom: 1em;;
 
   iframe {
     margin-bottom: 0;
   }
 }
-
-/* @media screen and (min-width: 60.41em)  {
-  .ascii-script {
-    display: block;
-  }
-}
-
-@media screen and (max-width: 60.4em)  {
-  .ascii-script {
-    display: none;
-  }
-} */

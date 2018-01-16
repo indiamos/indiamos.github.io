@@ -11,7 +11,7 @@ A tool for visualizing and digging into vocabulary differences between books, ti
 
 The .swf from which the screenshots above were generated still [_exists_](/assets/BookGrid.swf "BookGrid.swf, 312 KB"), but good luck getting it to render properly on any modern-day Flash player.
 
-A later iteration of the project, integrating the book comparisons with something like [WordHopper](/projects/wordhopper.html), via the [Wordnik](http://developer.wordnik.com/) and [Google Chart](https://developers.google.com/chart/) APIs, has sadly been lost to bitrot. It is this version—whose data was crunched offline in Java and then displayed on the Web using PHP—that I am re-creating now as [BookalatorJS](/projects/bookalator_js.html).
+A later iteration of the project, integrating the book comparisons with something like [Wordhopper](/projects/wordhopper.html), via the [Wordnik](http://developer.wordnik.com/) and [Google Chart](https://developers.google.com/chart/) APIs, has sadly been lost to bitrot. It is this version—whose data was crunched offline in Java and then displayed on the Web using PHP—that I am re-creating now as [BookalatorJS](/projects/bookalator_js.html).
 
 ## Links
 

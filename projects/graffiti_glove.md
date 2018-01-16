@@ -16,6 +16,10 @@ Final project for [Intro to Physical Computing](https://web.archive.org/web/2008
 -   India Amos
 -   Diego Rioja
 
+I sewed the final glove and embroidered two versions of the circuit. Conductive thread tends to sprout a lot of fuzz, especially the more you handle it, so I threaded glass beads onto it to insulate the “wires” and keep it from constantly shorting.
+
+I’m sure I also did some of the coding, but there’s no GitHub repo, and I don’t recall specifics.
+
 ## Links
 
 -   ITPindia: [Digital Graffiti Glove: Documentation](http://itp.indiamos.com/blog/2008/12/12/digital-graffiti-glove-documentation/) (includes links to source code)

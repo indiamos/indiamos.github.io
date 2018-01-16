@@ -5,7 +5,7 @@ permalink: /projects/mc_squared
 tags: Arduino, C#, Java, Minim, Processing, physical computing
 ---
 
-A musical instrument that detects motion using infrared sensor and generates sounds with the Minim library in Processing.
+A musical instrument that detects motion using infrared sensors and generates sounds with the Minim library in Processing.
 
 <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/indiamos/2968555666/in/album-72157691580080585/" title="MC Squared on its stand"><img src="https://farm4.staticflickr.com/3019/2968555666_d892065245_z.jpg?zz&#x3D;1" width="480" height="640" alt="MC Squared on its stand"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -16,6 +16,8 @@ Midterm project for [Intro to Physical Computing](https://web.archive.org/web/20
 -   India Amos
 -   Diego Rioja
 -   Filippo Vanucci
+
+I did some of the fabrication and designed the skin of the box. I may have also done some coding, but there’s no GitHub repo, and I don’t recall specifics.
 
 ## Links
 

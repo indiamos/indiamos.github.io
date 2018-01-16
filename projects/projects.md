@@ -20,4 +20,4 @@ permalink: /projects
 
 ## Misc
 
--   [The Scaramuccilator](https://codepen.io/indiamos/pen/KWvevy) (2017)
+-   [The Scaramuccilator](/projects/scaramuccilator.html) (2017)
