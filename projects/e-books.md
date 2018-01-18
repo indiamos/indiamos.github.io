@@ -41,11 +41,11 @@ All ABA titles share a great series design, so although I converted or revised a
 
 ### [_Responsible Responsive Design_](https://abookapart.com/products/responsible-responsive-design) by Scott Jehl (2014)
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/indiamos/albums/72157692363836625" title="On Web Typography"><img src="https://farm5.staticflickr.com/4715/39723858352_45bc6723e3.jpg" width="403" height="500" alt="On Web Typography"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/indiamos/albums/72157664797059008" title="Responsible Responsive Design"><img src="https://farm5.staticflickr.com/4698/27977470539_47b95e69f8.jpg" width="500" height="359" alt="Responsible Responsive Design"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### [_On Web Typography_](https://abookapart.com/products/on-web-typography) by Jason Santa Maria (2014)
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/indiamos/albums/72157664797059008" title="Responsible Responsive Design"><img src="https://farm5.staticflickr.com/4698/27977470539_47b95e69f8.jpg" width="500" height="359" alt="Responsible Responsive Design"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/indiamos/albums/72157692363836625" title="On Web Typography"><img src="https://farm5.staticflickr.com/4715/39723858352_45bc6723e3.jpg" width="403" height="500" alt="On Web Typography"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## NBC Publishing (2012–2014)
 
