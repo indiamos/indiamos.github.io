@@ -49,7 +49,7 @@ All ABA titles share a great series design, so although I converted or revised a
 
 ## NBC Publishing (2012–2014)
 
-The following books are all free, so you can download them and kick the tires yourself. Because they were published by NBC, “enhanced” versions of each, with embedded video files, are also available.
+The following books are all free, so you can download them and kick the tires yourself. Because they were published by NBC, “enhanced” versions of each, with embedded video files, are also available. _For those who like that sort of thing, that is the sort of thing they like._
 
 -   _Operation Money: A Financial Guide for Military Service Members and Families_ by Jean Chatzky (2014) – \[[Google Books](https://books.google.com/books?id=HrpPBAAAQBAJ "Operation Money at Google Books"), [iBooks](https://itunes.apple.com/us/book/operation-money/id910815148?mt=11 "Operation Money for iBooks"), [Amazon](https://www.amazon.com/Operation-Money-Financial-Military-Families-ebook/dp/B00MVKUE94 "Operation Money for Kindle"), [Kobo](https://www.kobo.com/us/en/ebook/operation-money "Operation Money at Kobo")\]
 -   _His Holiness The Dalai Lama: A Message of Spiritual Wisdom_ (2013) – \[[Google Books](https://books.google.com/books/about/His_Holiness_The_Dalai_Lama.html?id=7Q9OAQAAQBAJ "His Holiness at Google Books"), [iBooks](https://itunes.apple.com/us/book/his-holiness-the-dalai-lama/id725014807?mt=11 "His Holiness for iBooks"), [Amazon](https://www.amazon.com/His-Holiness-Dalai-Lama-Spiritual-ebook/dp/B00FT694AC "His Holiness for Kindle"), [Kobo](https://www.kobo.com/us/en/ebook/his-holiness-the-dalai-lama-1 "His Holiness at Kobo")\]
