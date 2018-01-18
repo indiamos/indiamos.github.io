@@ -21,7 +21,7 @@ Such constraints included but most definitely were not limited to the following:
 
 In sum: we partied like it was 1999.
 
-For obvious reasons, none of the code for the e-books I made at work is viewable in public GitHub repos. Below, however, are screenshots from a handful of them.
+For obvious reasons, none of the code for the e-books I made at work is viewable in public GitHub repos. Below, however, are embedded albums of screenshots from a sampling of them.
 
 ## Amplify (2014–2015)
 
