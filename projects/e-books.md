@@ -27,9 +27,9 @@ For obvious reasons, none of the code for the e-books I made at work is viewable
 
 Amplify’s middle-school library contains a mix of licensed and public-domain books, documents, and reading packets, some of which are integrated into lessons, some into games, some both. Documents used in lessons typically had definitions attached to specific words, which could work only if the underlying code was clean and semantic. Because it’s an educational product, accessibility was also a primary concern.
 
-Similarly, the automatic line numbering depended on specific markup, especially in plays. Documents used in the game Lexica had quiz questions attached to lines of text, and if a document was incorrectly coded, these would appear at wrong locations.
+Similarly, the automatic line numbering depended on specific markup, especially in plays. Documents used in the game Lexica had quiz questions attached to lines of text, and if a document was incorrectly coded, these would appear at the wrong locations.
 
-Poetry is always a challenge in e-reading systems, as are tables. In a nice change from retail e-book production, however, because we controlled the platform, we could be sure that these and typographic niceties such as drop caps and small caps would look consistent on every device and browser we supported.
+Poetry is always a challenge in e-reading systems, as are tables. In a nice change from retail e-book production, however, because we controlled the platform, we could be sure that these and typographic niceties such as drop caps and small caps would look _reasonably_ consistent on every device and browser we supported.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/indiamos/albums/72157692382768055" title="Amplify samples"><img src="https://farm5.staticflickr.com/4606/25894340988_4813407b41_z.jpg" width="640" height="400" alt="Amplify samples"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
