@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
+  {% include nav.html %}
   {% include head.html %}
   <body>
     <div class="nameplate-home" role="banner">
@@ -9,11 +10,7 @@
 
     <main>
       <div class="home-bio">
-        <p>Hi, I’m India!</p>
-
-        <p>I’ve worked on websites on and off since 1996 and began doing e-book development in 2010. In September 2017, I graduated from the Grace Hopper Program, an intensive full-stack JavaScript school for women, and I worked there until December as a teaching fellow.</p>
-
-        <p>Now I’m looking for a software engineering position where I can apply my diverse set of skills while mastering new ones. <a href="about.html">Learn more</a>, or <a href="contact.html">get in touch!</a></p>
+        {{ content }}
       </div>
     </main>
 

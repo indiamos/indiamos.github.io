@@ -20,4 +20,5 @@ permalink: /projects
 
 ## Misc
 
+-   [E-books](/projects/e-books.html) (2011–2015)
 -   [The Scaramuccilator](/projects/scaramuccilator.html) (2017)
