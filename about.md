@@ -4,16 +4,14 @@ title:  "About"
 permalink: /about
 ---
 
-Résumé:
+<img src="/assets/2016_profile.jpg" alt="me looking rapturous at an event in 2016" title="Photo: Stewart Cauley" class="headshot" /> Résumé:
 
 - [PDF](/assets/India_Amos_resume.pdf)
 - [Gist](https://gist.github.com/indiamos/351b64b955ae69ce777bbca809c157ee)
 
-![me looking rapturous at an event in 2016](/assets/2016_profile.jpg "Photo: Stewart Cauley")
+See also the [Contact](/contact.html) page for links to profiles elsewhere.
 
 Looking for a short bio? That's [here](/ "short bio, on the home page"). This is the looooong bio.
-
-See also the [Contact](/contact.html) page for links to profiles elsewhere.
 
 ----------
 
