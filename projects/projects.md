@@ -55,7 +55,7 @@ permalink: /projects
     <section class="project_thumbs_list_item_body">
       <a href="/projects/quincunx.html">
         <h3 class="project_thumbs_list_item_title">Quincunx</h3>
-        <p class="project_thumbs_list_item_desc">understand normal distribution with an animated Galton box</p>
+        <p class="project_thumbs_list_item_desc">understand normal distribution with an animated bean machine</p>
         <p class="project_thumbs_list_item_tech">data visualization, Java, Processing</p>
       </a>
     </section>
