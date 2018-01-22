@@ -6,8 +6,14 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
 
 $primary-text: #ffbf00;
-$secondary-text: #aa8c00;
+$secondary-text: #BF8F00;
+$lowlight: #806000;
+$lowerlight: #543F00;
 $not-black: #191919;
+
+* {
+  box-sizing: border-box;
+}
 
 body {
   -moz-font-feature-settings: "kern" 1;
@@ -51,6 +57,7 @@ blockquote {
 
 footer {
   margin-top: 2em;
+  clear: both;
 }
 
 footer,
@@ -196,6 +203,83 @@ p {
 
 .project-nav-head {
   text-align: center;
+}
+
+.project_thumbs_list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  .project_thumbs_list_item {
+    float: left;
+    margin-left: 0;
+    min-height: 0;
+    padding: 10px 0;
+    position: relative;
+    width: 100%;
+  }
+
+  .project_thumbs_list_item:last-child {
+    padding-bottom: 2.5em;
+  }
+
+  .project_thumb {
+    border: none;
+    float: left;
+    margin-right: 20px;
+    max-width: 90px;
+
+    img {
+      border: 1px solid $secondary-text;
+      border-radius: 10px;
+    }
+  }
+
+    .project_thumb:focus,
+    .project_thumb:hover {
+      background-color: inherit;
+      img {
+        border-color: $primary-text;
+        border-width: 45px;
+      }
+    }
+
+  .project_thumbs_list_item_body {
+    // border-radius: 10px;
+    float: left;
+    width: calc(100% - 110px);
+
+    a {
+      border: none;
+    }
+  }
+
+  .project_thumbs_list_item_body a:focus .project_thumbs_list_item_title,
+  .project_thumbs_list_item_body a:focus p {
+    background-color: $primary-text;
+    color: initial;
+  }
+
+  .project_thumbs_list_item_body a:hover .project_thumbs_list_item_tech {
+    color: initial;
+  }
+
+  .project_thumbs_list_item_body:hover {
+    background-color: $primary-text;
+    color: $not-black;
+  }
+
+  .project_thumbs_list_item_tech {
+    color: $secondary-text;
+    font-size: 70%;
+    letter-spacing: 0.15em;
+    margin-top: 0;
+    text-transform: uppercase;
+  }
+
+  .project_thumbs_list_item_title {
+    margin: 0;
+  }
 }
 
 .project-title {
