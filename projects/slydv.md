@@ -3,7 +3,7 @@ layout: project
 title:  "SlyDv"
 subtitle:  "Presentation slides for developers"
 permalink: /projects/slydv
-tags: Deque Cauldron, eslint-config-airbnb, Express, git, GitHub, jsx-a11y, Marked, Node, Postgres, React, react-document-title, Redux, Runkit, Sequelize, Socket.io, Waffle.io
+tags: Babel, Deque Cauldron, eslint-config-airbnb, Express, git, GitHub, jsx-a11y, Marked, Node, Postgres, React, react-document-title, Redux, Runkit, Sequelize, Socket.io, Waffle.io, Webpack​
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8gZyN4T3C9A?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

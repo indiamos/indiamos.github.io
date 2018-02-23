@@ -2,7 +2,7 @@
 layout: project
 title:  "BookalatorJS"
 permalink: /projects/bookalator_js
-tags: CSS, eslint-config-airbnb, Express, git, GitHub, Natural, Node, Postgres, React, Redux, Sequelize, Waffle.io
+tags: Babel, CSS, eslint-config-airbnb, Express, git, GitHub, Natural, Node, Postgres, React, Redux, Sequelize, Waffle.io, Webpack​
 ---
 
 Explore and compare books using natural language processing (ongoing).

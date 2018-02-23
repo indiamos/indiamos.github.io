@@ -2,7 +2,7 @@
 layout: project
 title:  "Grace Shopurr"
 permalink: /projects/grace-shopurr
-tags: Bootstrap, CSS, Express, git, GitHub, Heroku, Passport, Postgres, React, Redux, Sequelize, Waffle.io, Webpack
+tags: Babel, Bootstrap, CSS, Express, git, GitHub, Heroku, Passport, Postgres, React, Redux, Sequelize, Waffle.io, Webpack
 ---
 
 An e-commerce site for adopting cats and purchasing supplies to donate to animal shelters.
