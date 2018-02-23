@@ -11,6 +11,6 @@ I’ve worked on websites since 1996, and in 2008 I enrolled in [ITP](https://ti
 
 I had always loved the coding parts of my work, so in 2017, I attended Fullstack Academy’s Grace Hopper Program, an intensive JavaScript school for women. Then I worked there for three months as a teaching fellow, helping the next cohort master the material.
 
-Now I’m looking for a company where I can contribute immediately as a front-end engineer, since that’s what I know best, while continuing to develop my back-end skills.
+Now I’m looking for a position on a cross-functional team where I can contribute immediately on the front-end, since that’s what I know best, while continuing to develop my back-end skills.
 
 [Learn more](/about.html), or [get in touch!](/contact.html)

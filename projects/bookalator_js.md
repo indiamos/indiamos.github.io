@@ -9,7 +9,7 @@ Explore and compare books using natural language processing (ongoing).
 
 ![BookalatorJS's book selector](/assets/BookalatorJS_selector.png)
 
-For my Grace Hopper Program “Stackathon” project, I chose to start re-creating the Bookalator site I made in grad school, which was wiped from NYU's server and of which, apparently, I had no complete backup.
+For my Grace Hopper Program “Stackathon” project, I chose to start re-creating the [Bookalator site I made in grad school](/bookalator_itp.html).
 
 Stackathon is a solo project that students have four days to work on. I spent about half of that time trying to figure out what the Airbnb linter, which I had never used before, wanted from me; half of it trying to seed my database; and another half hard-coding data into my components so that I'd have something to present.
 
