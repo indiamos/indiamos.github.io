@@ -7,10 +7,10 @@ Hi, I’m India!
 *[ITP]: Interactive Telecommunications Program
 *[EPUB]: the distribution and interchange format standard for digital publications and documents
 
-I’ve worked on websites since 1996, and in 2008 I enrolled in [ITP](https://tisch.nyu.edu/itp) at New York University. In 2010, I began teaching myself EPUB development, and for almost four years I [coded full-time](/projects/e-books.html), for book publishers and in edtech.
+I’ve worked on websites since 1996, and in 2008 I enrolled in [ITP](https://tisch.nyu.edu/itp) at New York University. In 2010, I began teaching myself EPUB development, and for almost four years I [coded full-time](/projects/e-books.html), for book publishers and in EdTech.
 
-I had always loved the coding parts of my work, so in 2017, I attended Fullstack Academy’s Grace Hopper Program, an intensive JavaScript school for women. Then I worked there for three months as a teaching fellow, helping the next cohort master the material.
+I always loved the coding parts of my work, so in 2017, I attended the Grace Hopper Program, an intensive full-stack JavaScript school for women. Then I worked there for three months as a teaching fellow, helping the next cohort master the material.
 
-Now I’m looking for a position on a cross-functional team where I can contribute immediately on the front-end, since that’s what I know best, while continuing to develop my back-end skills.
+Now I’m looking for a position on a cross-functional team where I can contribute immediately on the front-end, since that’s what I have the most experience in, while continuing to deepen skills throughout the stack.
 
 [Learn more](/about.html), or [get in touch!](/contact.html)
