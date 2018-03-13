@@ -10,7 +10,7 @@ tags: Babel, Deque Cauldron, eslint-config-airbnb, Express, git, GitHub, jsx-a11
 
 *[REPL]: read-eval-print loop
 
-SlyDv was an itch-scratching project. At Grace Hopper, we saw—and gave—a lot of presentations where the speaker had to switch to a REPL to demonstrate some code, and then fumbled around to find the slides again afterward. We also saw a lot of people fussing more about their slide layouts than about the content itself. So we wanted to develop a presentation app that let you create vanilla slides using Markdown, and also make REPL slides that could be prepopulated with code and then live-edited and run while presenting.
+SlyDv was an itch-scratching project. At Grace Hopper, we saw — and gave — a lot of presentations where the speaker had to switch to a REPL to demonstrate some code, and then fumbled around to find the slides again afterward. We also saw a lot of people fussing more about their slide layouts than about the content itself. So we wanted to develop a presentation app that let you create vanilla slides using Markdown, and also make REPL slides that could be prepopulated with code and then live-edited and run while presenting.
 
 In three weeks, we met these goals and also added a remote-control page that presenters can use on their phones, a style switcher for the slide decks, and a text chat interface for the audience and presenter to communicate through. And we used Deque Labs’s Cauldron library and jsx-a11y to help make the forms and controls accessible.
 

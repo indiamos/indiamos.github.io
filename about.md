@@ -65,7 +65,7 @@ I disliked the _program_ enough to leave it without clearing two incompletes so 
 
 ### #eprdctn
 
-From 2010 to 2015, I did a lot of e-book QA and development, which is mostly HTML and CSS glued together with XML, some finicky zip settings, and hope. This meant working with a relatively new and rapidly changing assortment of hardware, software, vendor specs, and standards, and the two [key](http://www.elizabethcastro.com/epub/ "EPUB Straight to the Point, by Liz Castro") [books](http://kindleformatting.com/book/ "Kindle Formatting, by Joshua Tallent") on the subject quickly became outdated. So e-book developers came to rely—and still do—on daily chatting via Twitter hashtag. The [#eprdctn](https://twitter.com/hashtag/eprdctn?src=hash) community made my work possible, and I give back whenever I can.
+From 2010 to 2015, I did a lot of e-book QA and development, which is mostly HTML and CSS glued together with XML, some finicky zip settings, and hope. This meant working with a relatively new and rapidly changing assortment of hardware, software, vendor specs, and standards, and the two [key](http://www.elizabethcastro.com/epub/ "EPUB Straight to the Point, by Liz Castro") [books](http://kindleformatting.com/book/ "Kindle Formatting, by Joshua Tallent") on the subject quickly became outdated. So e-book developers came to rely — and still do — on daily chatting via Twitter hashtag. The [#eprdctn](https://twitter.com/hashtag/eprdctn?src=hash) community made my work possible, and I give back whenever I can.
 
 ### Grace Hopper Program
 
@@ -93,7 +93,7 @@ We licensed hundreds of e-books from publishers, and I (with the help of three d
 
 I wrote documentation for every part of the process and trained the rest of the content production team in using the publishing system. I also performed some of the more complex conversions (e.g., a set of bilingual magazines) myself.
 
-This was my first experience working with agile software teams. Although I wasn't technically on such a team, I wrote or resolved a lot of Jira tickets (including ones on issues not at all EPUB–related—e.g., audio encoding), participated in a lot of troubleshooting conversations, and worked closely with the developers and product owners of the applications I lived in.
+This was my first experience working with agile software teams. Although I wasn't technically on such a team, I wrote or resolved a lot of Jira tickets (including ones on issues not at all EPUB–related — e.g., audio encoding), participated in a lot of troubleshooting conversations, and worked closely with the developers and product owners of the applications I lived in.
 
 ### F+W Media, New York, NY
 
@@ -110,7 +110,7 @@ F+W publishes a lot of heavily illustrated and highly formatted books, so this j
 
 *[MS IIS]: Microsoft Internet Information Services
 
-At one of my very first office jobs, I ended up managing [Poets.org](http://www.poets.org/), which at the time was (and surely still is) one of the largest poetry sites on the Web. I had never even _seen_ the Web before working there, but I learned to deal with the whole stack—including MS IIS, MS SQL Server, and a lot of ColdFusion—mostly by reading O'Reilly books and whatever documentation existed, in those dark days before StackOverflow. I also handled SEO and traffic analytics, wrote all of the site’s FAQ pages, and fielded dozens of e-mails a day from users. I eventually had three direct reports, all of whom also learned HTML under my guidance.
+At one of my very first office jobs, I ended up managing [Poets.org](http://www.poets.org/), which at the time was (and surely still is) one of the largest poetry sites on the Web. I had never even _seen_ the Web before working there, but I learned to deal with the whole stack — including MS IIS, MS SQL Server, and a lot of ColdFusion — mostly by reading O'Reilly books and whatever documentation existed, in those dark days before StackOverflow. I also handled SEO and traffic analytics, wrote all of the site’s FAQ pages, and fielded dozens of e-mails a day from users. I eventually had three direct reports, all of whom also learned HTML under my guidance.
 
 ## Skills overview
 

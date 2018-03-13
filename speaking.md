@@ -4,9 +4,9 @@ title:  "Speaking"
 permalink: /speaking
 ---
 
-My very first tech talk was at a conference in the Netherlands—a _poetry_ conference—where I was invited to explain how the website I managed, [Poets.org](https://www.poets.org/), was developed and maintained. Alas, no recording exists.
+My very first tech talk was at a conference in the Netherlands — a _poetry_ conference — where I was invited to explain how the website I managed, [Poets.org](https://www.poets.org/), was developed and maintained. Alas, no recording exists.
 
-Since then, I've had several more speaking opportunities, and people have said they find my presentations informative and amusing—enough so that one of the recordings below has been used in a class.
+Since then, I've had several more speaking opportunities, and people have said they find my presentations informative and amusing — enough so that one of the recordings below has been used in a class.
 
 Want me to come speak at your conference? [Get in touch!](contact.html)
 
