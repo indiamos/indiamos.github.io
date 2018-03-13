@@ -7,7 +7,7 @@ tags: CSS, HTML, JavaScript
 
 Every now and then, I look at the coding challenges on [Free Code Camp](https://www.freecodecamp.org/challenges/) for a change of pace. The assignment for this one was to create a generator that would spit out randomly selected quotes. I decided mine would dispense at random one of the not-so-randomly misattributed quotes that various wags posted to Twitter, inspired by a 2012 tweet by short-lived government appointee Anthony Scaramucci.
 
-[![screenshot of my July 2017 tweet linking to the project: “I made this dumbass thing, and now I can’t stop clicking on it”; the featured quote is “My milkshake brings all the boys to the yard. —Jane Austen”](/assets/scaramuccilator_tweet.png)](https://twitter.com/indiamos/status/889250497995190273)
+[![screenshot of my July 2017 tweet linking to the project: “I made this dumbass thing, and now I can’t stop clicking on it”; the featured quote is “My milkshake brings all the boys to the yard.  —Jane Austen”](/assets/scaramuccilator_tweet.png)](https://twitter.com/indiamos/status/889250497995190273)
 
 It’s a rat-simple toy, and the code is Not Nice. But it amused me and at least 26 other people.
 
