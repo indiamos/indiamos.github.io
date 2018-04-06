@@ -7,6 +7,8 @@
 
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160  }}{% else %}{{ site.description }}{% endif %}" />
 
+  <link rel="icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | prepend: site.baseurl }}">
+
   <link href="https://use.fontawesome.com/2f0832fcef.css" media="all" rel="stylesheet">
 
   <link href="{{ "/css/styles.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
