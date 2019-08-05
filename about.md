@@ -75,6 +75,38 @@ In 2017, I attended the [Grace Hopper Program](https://www.gracehopper.com/), a 
 
 I've done _many_ kinds of work, including construction, cooking, typesetting, and art direction. Below, therefore, are only the most tech-relevant highlights (not including building a lot of WordPress sites for myself, other people, and companies I worked for):
 
+### Stride Consulting, New York, NY
+
+**Consulting Software Developer II (2018–)**
+
+Stride is a nondogmatic agile consultancy whose engineers work alongside its
+clients’ teams. Through Stride, I've worked on the following client engagements:
+
+#### IBM (April–June 2019)
+
+Back-end developer on the Digital Workspace Engineering w3 Notifications team.
+
+Technologies used include Cassandra, GraphQL, Kafka, Node, TypeScript.
+
+#### Blackboard Insurance (May 2018–March 2019)
+
+I worked mostly on the front end of Underwriter Slate, a Web-based application
+that streamlines the issuing of commercial insurance policies. We built three
+lines of business: General Liability, Commercial Property, and Commercial
+Automobile.
+
+Technologies used include CSS Grid, Enzyme, Flask, Jest, JMESpath, Material UI,
+Node, PostgreSQL, PyTest, Python, React, Redux, redux-form, reselect, Ruby on
+Rails
+
+Being on a cross-functional team that paired whenever possible, I contributed to
+nearly every part of the app. But I developed particular expertise in optional
+endorsements, for which we had to render and persist data from forms whose
+structures came as dynamically generated JSON Schema files. I cataloged those
+structures to determine what kinds of inputs, validations, and layouts we needed
+to handle, and then test-drove the code for those forms. I also was acclaimed
+for my lively and well-organized sprint-end demos.
+
 ### The Museum of Modern Art, New York, NY
 
 **Digital Media Producer (2016–2017)**
@@ -114,9 +146,21 @@ At one of my very first office jobs, I ended up managing [Poets.org](http://www.
 
 ## Skills overview
 
-I've picked up a lot of coding-related skills and experience in my career, and I’m in the habit of learning new things constantly and documenting what I learn so that others can benefit. I have longstanding interests in accessibility and in writing clean, maintainable code; I love linters; and I'm eager to learn more about automated testing. I've provided technical training to many of my colleagues, and people have told me they appreciate my patient and nonjudgmental instruction. I even made one self-avowed “friend for life” through one of my more expressive Jira tickets.
+I've picked up a lot of coding-related skills and experience in my career, and
+I’m in the habit of learning new things constantly and documenting what I learn
+so that others can benefit. I have longstanding interests in accessibility and
+in writing clean, maintainable code; I love linters; and I have been happiest
+when hewing close to the principles of
+[Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming). I've
+provided technical training to colleagues and friends in many contexts, and
+people have told me they appreciate my patient and nonjudgmental instruction. I
+even made one self-avowed “friend for life” through one of my more expressive
+Jira tickets.
 
-Skills are fungible, and I'm confident that I can learn whatever I need to, when I need to. But for a breakdown of what tools and practices I am familiar with _as of this moment_, [please consult this résumé Gist](https://gist.github.com/indiamos/351b64b955ae69ce777bbca809c157ee#skills--tools-used).
+Skills are fungible, and I'm confident that I can learn whatever I need to, when
+I need to. But for a breakdown of what tools and practices I am familiar with
+_as of the last time I got around to updating my résumé_,
+[please consult this Gist](https://gist.github.com/indiamos/351b64b955ae69ce777bbca809c157ee#skills--tools-used).
 
 
 ## Extracurriculars
